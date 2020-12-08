@@ -6,4 +6,4 @@
 Фон – отрисован на основе картины "Кони Аничкова Моста" (Лаповок Владимир Абрамович)<br>
 
 немножко псевдо-3D:
-![Preview](https://github.com/qsedftghk/bull/blob/master/bull.gif)
+![Preview](https://github.com/qsedftghk/bull/blob/main/bull.gif)

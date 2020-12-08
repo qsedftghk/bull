@@ -2,8 +2,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://qsedftghk.github.io/bull/
 <br>
-Бык – отрисован с карикатуры художника Валентина Калининского (Kalininskiy)<br>
-Фон – отрисован на основе картины "Кони Аничкова Моста" (Лаповок Владимир Абрамович)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Бык – отрисован с карикатуры художника Валентина Калининского (Kalininskiy)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Фон – отрисован на основе картины "Кони Аничкова Моста" (Лаповок Владимир Абрамович)<br>
 
-немножко псевдо-3D:
+немного псевдо-3D:
 ![Preview](https://github.com/qsedftghk/bull/blob/main/bull.gif)
